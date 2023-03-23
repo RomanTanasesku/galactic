@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(20, 19, 19);
+    color:aliceblue;
+}
+h1{
+    color:chartreuse;
+}
+span{
+    color:gold
+}
+h2{
+    color:blueviolet
+}
+button{
+    color: red;
+}
+a{
+    color: red;
+}
